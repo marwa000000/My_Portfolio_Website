@@ -1,1 +1,1 @@
-The .scss (Sass) files are only available in the pro version.
+Using by HTML CSS Bootstrap.
